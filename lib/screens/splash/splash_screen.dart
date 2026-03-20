@@ -1,1 +1,1 @@
-// stub: `screens/splash/splash_screen.dart` created — implementation removed
+// file dùng cho code
